@@ -22,3 +22,7 @@ void Cylinder::print() const {
 	Circle::print();
 	cout << "height: " << height << endl;
 }
+
+void foo() {
+	cout << "For git\n";
+}
